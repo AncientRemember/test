@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:625px;
+  width:568px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u674_img {
+#u707_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,18 +20,18 @@
   width:525px;
   height:1080px;
 }
-#u674 {
+#u707 {
   border-width:0px;
   position:absolute;
-  left:100px;
-  top:30px;
+  left:43px;
+  top:81px;
   width:525px;
   height:1080px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
 }
-#u674_text {
+#u707_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -40,7 +40,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u675_div {
+#u708_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -58,18 +58,18 @@
   font-weight:400;
   font-style:normal;
 }
-#u675 {
+#u708 {
   border-width:0px;
   position:absolute;
-  left:126px;
-  top:178px;
+  left:69px;
+  top:229px;
   width:468px;
   height:50px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
 }
-#u675_text {
+#u708_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -78,7 +78,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u676_div {
+#u709_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -99,11 +99,11 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u676 {
+#u709 {
   border-width:0px;
   position:absolute;
-  left:237px;
-  top:192px;
+  left:180px;
+  top:243px;
   width:246px;
   height:24px;
   font-family:'微软雅黑';
@@ -113,7 +113,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u676_text {
+#u709_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -121,7 +121,7 @@
   width:246px;
   word-wrap:break-word;
 }
-#u677_div {
+#u710_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -142,11 +142,11 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u677 {
+#u710 {
   border-width:0px;
   position:absolute;
-  left:161px;
-  top:192px;
+  left:104px;
+  top:243px;
   width:60px;
   height:24px;
   font-family:'微软雅黑';
@@ -156,7 +156,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u677_text {
+#u710_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -164,7 +164,7 @@
   width:60px;
   word-wrap:break-word;
 }
-#u678_img {
+#u711_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -172,18 +172,18 @@
   width:468px;
   height:21px;
 }
-#u678 {
+#u711 {
   border-width:0px;
   position:absolute;
-  left:126px;
-  top:158px;
+  left:69px;
+  top:209px;
   width:468px;
   height:21px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
 }
-#u678_text {
+#u711_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -192,7 +192,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u679_div {
+#u712_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -211,11 +211,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u679 {
+#u712 {
   border-width:0px;
   position:absolute;
-  left:135px;
-  top:184px;
+  left:78px;
+  top:235px;
   width:25px;
   height:42px;
   font-family:'微软雅黑';
@@ -223,7 +223,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u679_text {
+#u712_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -231,7 +231,7 @@
   width:25px;
   white-space:nowrap;
 }
-#u680_div {
+#u713_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -245,28 +245,28 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:18px;
   color:#FFFFFF;
   text-align:center;
 }
-#u680 {
+#u713 {
   border-width:0px;
   position:absolute;
-  left:538px;
-  top:192px;
+  left:481px;
+  top:243px;
   width:50px;
   height:24px;
-  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:18px;
   color:#FFFFFF;
   text-align:center;
 }
-#u680_text {
+#u713_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -274,7 +274,7 @@
   width:50px;
   word-wrap:break-word;
 }
-#u681_div {
+#u714_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -292,15 +292,15 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u681 {
+#u714 {
   border-width:0px;
   position:absolute;
-  left:126px;
-  top:228px;
+  left:69px;
+  top:279px;
   width:468px;
   height:762px;
 }
-#u681_text {
+#u714_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -309,7 +309,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u682_div {
+#u715_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -325,20 +325,86 @@
   box-shadow:none;
   text-align:center;
 }
-#u682 {
+#u715 {
   border-width:0px;
   position:absolute;
-  left:178px;
-  top:328px;
+  left:121px;
+  top:379px;
   width:364px;
   height:29px;
   text-align:center;
 }
-#u682_text {
+#u715_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:364px;
   word-wrap:break-word;
+}
+#u717_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:89px;
+  height:37px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+}
+#u717 {
+  border-width:0px;
+  position:absolute;
+  left:9px;
+  top:0px;
+  width:89px;
+  height:37px;
+  font-size:28px;
+}
+#u717_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:85px;
+  white-space:nowrap;
+}
+#u718_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  height:37px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+}
+#u718 {
+  border-width:0px;
+  position:absolute;
+  left:130px;
+  top:1px;
+  width:61px;
+  height:37px;
+  font-size:28px;
+}
+#u718_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:57px;
+  white-space:nowrap;
 }
